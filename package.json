@@ -1,0 +1,22 @@
+{
+  "name": "myhttps",
+  "version": "1.0.0",
+  "description": "my practise of node https",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/33033624/https.git"
+  },
+  "keywords": [
+    "li7382561"
+  ],
+  "author": "lishupeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/33033624/https/issues"
+  },
+  "homepage": "https://github.com/33033624/https#readme"
+}
